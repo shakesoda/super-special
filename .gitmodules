@@ -1,0 +1,4 @@
+[submodule "buildroot"]
+	path = buildroot
+	url = git://git.busybox.net/buildroot
+	branch = 2018.02.x
